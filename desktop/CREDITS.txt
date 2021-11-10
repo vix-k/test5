@@ -1,0 +1,64 @@
+Hello! Welcome to 98.js.org
+
+https://github.com/1j01/98
+
+--------------------------------------
+Apps
+====----------------------------------
+
+Minesweeper by Jon Ziebell
+	https://github.com/ziebelje/minesweeper
+
+Solitaire by Radovan Janjic
+	https://github.com/rjanjic/js-solitaire
+
+Webamp by Jordan Eldredge
+	https://github.com/captbaritone/webamp
+	
+	Featuring:
+	Butterchurn Visualizer by Jordan Berg
+		https://github.com/jberg/butterchurn
+
+3D Flower Box by Kevin Shannon
+	https://github.com/kevin-shannon/3D-FlowerBox
+
+MS-DOS Prompt
+	https://js-dos.com
+		Emscripten  https://emscripten.org/
+		DOSBox  https://www.dosbox.com/
+		Em-DOSBox  https://github.com/dreamlayers/em-dosbox
+
+Paint, Sound Recorder, Notepad, 3D Pipes, and the 98.js.org desktop
+by Isaiah Odhner
+	https://github.com/1j01/98
+	https://github.com/1j01/jspaint
+	https://github.com/1j01/pipes
+
+Calculator by Isaiah Odhner, @muzam1l, and Windows Calculator engine developers
+(It uses the open-sourced calculation engine from Windows 10.)
+
+--------------------------------------
+Assets
+======--------------------------------
+
+Many icons and other assets from Microsoft.
+Microsoft® and other trademarks are respective of their own respective holders,
+respectively, in the United States and/or other countries, respectively.
+
+--------------------------------------
+Libraries
+=========-----------------------------
+
+BrowserFS
+	https://github.com/jvilk/BrowserFS
+
+jQuery
+	https://github.com/jquery/jquery
+
+Pointer Events Polyfill
+	https://github.com/jquery/PEP
+
+FileSaver.js
+	https://github.com/eligrey/FileSaver.js/
+
+and many more!
